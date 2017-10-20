@@ -1,0 +1,57 @@
+div {
+    border: 1px solid black;
+    display: inline-block;
+    height: 220px;
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.f-box {
+    border:  none;
+    background: rgba(225, 227, 228, 0.71);
+}
+
+.s-box {
+    border: none;
+    height: 90px;
+    width: 200px;
+    position: relative;     
+    top: -21px;
+    left: -21px;
+}
+
+.t-box {
+    border: none;
+    height: 140px;
+    width: 200px;
+    position: relative;
+    top: -60px;
+    left: -21px;
+}
+
+h1 {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+h3 {
+    font-size: 20px;
+    text-align: center;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-size: 9px;
+    text-align: center;
+    padding: 0px;
+    line-height: 11px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.icon {
+    width: 20px;
+    height: 20px;
+    margin-left: 50px;
+}
